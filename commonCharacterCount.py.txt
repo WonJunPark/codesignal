@@ -1,0 +1,7 @@
+    total = 0
+    
+    for i in set(s1) :
+        total += min(s1.count(i),s2.count(i))
+        
+    
+    return total

@@ -1,0 +1,5 @@
+    k = len(inputString)
+    
+    for i in range(k):
+        if inputString[i] != inputString[-i - 1]: return False
+    return True

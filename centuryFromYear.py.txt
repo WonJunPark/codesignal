@@ -1,0 +1,6 @@
+    y = int(year/100)+1
+    
+    if year%100 == 0 :
+        y = int(year/100)
+    
+    return y

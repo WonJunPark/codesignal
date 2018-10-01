@@ -1,0 +1,4 @@
+
+    n = max( [len(i) for i in inputArray] )
+    
+    return [i for i in inputArray if n == len(i)]

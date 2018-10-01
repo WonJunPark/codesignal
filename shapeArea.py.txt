@@ -1,0 +1,6 @@
+    k=1
+
+    for i in range(n):
+        k += 4*i
+
+    return k
