@@ -1,2 +1,0 @@
-# codesignal
-Code Arcade
